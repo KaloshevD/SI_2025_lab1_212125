@@ -127,14 +127,10 @@ public class SI2025Lab1Main {
         manager.addTask("Buy groceries", Priority.LOW, "Personal");
 
         // MISSING: Calls to the new methods that will be implemented
-<<<<<<< HEAD
-
-
         manager.sortTasksByName();
-=======
         manager.getCompletedTasks();
         manager.removeTask("Write report");
->>>>>>> 314059aa9402339d97b01c03132b33be06e03147
+        
         manager.printTasks();
     }
 }
