@@ -1,0 +1,92 @@
+
+ git init
+ 283 git add README.md
+ 284 >> README.md
+ 285 > README.md
+ 286 Echo "Damjan Kaloshev 212125" >> README.md
+ 287 git add .\README.md
+ 288 cat .\README.md
+ 289 git commit -m "Added specific readme"
+ 290 git branch
+ 291 git remote add origin https://github.com/KaloshevD/SI_2025_lab1_212125.git
+ 292 git push -u origin master
+ 293 ls
+ 294 ls
+ 295 clear
+ 296 git status
+ 297 git add .\SI2025Lab1Main.java
+ 298 git commit -m "Starter Code"
+ 299 git push origin master
+ 300 git sattus
+ 301 git status
+ 302 git add .\README.md
+ 303 git commit -m "Inital commit"
+ 304 git push origin master
+ 305 git fetch origin
+ 306 git checkout 1-remove-a-task-by-name
+ 307 git checkout master
+ 308 git fetch origin
+ 309 git branch
+ 310 git fetch origin
+ 311 git checkout 2-find-all-completed-tasks
+ 312 git checkout master
+ 313 git branch
+ 314 git fetch origin
+ 315 git checkout 3-list-tasks-sorted-by-name
+ 316 git checkout 1-remove-a-task-by-name
+ 317 cat .\SI2025Lab1Main.java
+ 318 cat .\SI2025Lab1Main.java
+ 319 git status
+ 320 git add .\SI2025Lab1Main.java
+ 321 git commit -m "Method for removing task created"
+ 322 git push origin 1-remove-a-task-by-name
+ 323 git checkout master
+ 324 git fetch origin
+ 325 git branches
+ 326 git branch
+ 327 git checkout 2-find-all-complted-tasks
+ 328 git checkout 2-find-all-completed-tasks
+ 329 cat .\SI2025Lab1Main.java
+ 330 git status
+ 331 git commit -m "Created the method 'Find all completed tasks'"
+ 332 git add .\SI2025Lab1Main.java
+ 333 git commit -m "Created the method 'Find all completed tasks'"
+ 334 git push origin 2-find-all-completed-tasks
+ 335 git branc
+ 336 git branch
+ 337 git checkout 3-list-tasks-sorted-by-name
+ 338 git branch
+ 339 git status
+ 340 git add .\SI2025Lab1Main.java
+ 341 git commit -m "Created method for sorting tasks by name"
+ 342 git push origin 3-list-tasks-sorted-by-name
+ 343 git branch
+ 344 git checkout master
+ 345 cat .\SI2025Lab1Main.java
+ 346 git branch
+ 347 git merge 3-list-tasks-sorted-by-name
+ 348 git status
+ 349 git branch
+ 350 cat .\SI2025Lab1Main.java
+ 351 git push origin master
+ 352 git status
+ 353 git push origin master
+ 354 git branch
+ 355 cat .\SI2025Lab1Main.java
+ 356 git push origin master
+ 357 git pull
+ 358 ls
+ 359 cat .\SI2025Lab1Main.java
+ 360 git branch
+ 361 git status
+ 362 git add .\SI2025Lab1Main.java
+ 363 git commit -m "Merging third created method via CLI"
+ 364 cd
+ 365 cat si
+ 366 cat .\SI2025Lab1Main.java
+ 367 git status
+ 368 git status
+ 369 git add .\SI2025Lab1Main.java
+ 370 git commit -m "Code clean up"
+ 371 git push origin master
+ 372 git log --oneline --graph --all >> logs.txt
